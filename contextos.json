@@ -1,0 +1,13 @@
+{
+  "name": "contextOS",
+  "version": "1.0.0",
+  "excludes": [
+    "node_modules",
+    ".git",
+    "dist"
+  ],
+  "preferences": {
+    "brainModel": "gemini-3-flash-preview",
+    "outputFormat": "markdown"
+  }
+}

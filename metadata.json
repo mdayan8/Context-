@@ -1,0 +1,6 @@
+{
+  "name": "contextOS",
+  "description": "A portable AI memory and context layer for any GitHub repository. Scan, summarize, and generate repo brains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
